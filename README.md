@@ -49,15 +49,6 @@ mindmark/
    - Visual feedback for interactive elements
    - Clean, professional interface
 
-### Content Categories
-
-mindmark organizes information into these key areas:
-
-- **Job Market Analysis**: Current trends and specific needs
-- **Network Development**: Resources for building professional connections
-- **Career Strategies**: Actionable advice for job seekers
-- **Training Resources**: Both online and center-based options
-- **Company Directories**: Curated lists of relevant organizations
 
 ## Future Development
 
@@ -83,7 +74,7 @@ We're actively working on adding an AI-powered backend that will:
 
 ## Getting Started
 
-you can access the mindmark demo, with information about job market, training and companies in Toulouse-Occitannie-France
+you can access the mindmark demo example, with information about job market, training and companies in Toulouse-Occitannie-France
 
 ## License
 
