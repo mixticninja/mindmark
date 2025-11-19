@@ -91,8 +91,5 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 ## Contact
 
-For questions or feedback, please contact [your contact information].
+For questions or feedback, please contact [mixticstudiopro@gmail.com].
 
----
-
-mindmark is continuously evolving. Stay tuned for exciting new features as we expand the platform's capabilities!
