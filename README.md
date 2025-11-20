@@ -20,7 +20,7 @@ Key components:
 
 ### File Structure
 
-```
+
 mindmark/
 ├── index.html          # Main application entry point
 ├── src/
@@ -29,7 +29,7 @@ mindmark/
 └── content/
     ├── styles.css      # Shared styles for content pages
     └── *.html          # Individual content pages
-```
+
 ## Features
 
 ### Current Features
