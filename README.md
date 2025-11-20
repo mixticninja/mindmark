@@ -2,7 +2,7 @@
 
 ## Overview
 
-mindmark is an innovative web application that combines interactive mind mapping with bookmarking functionality. Designed to facilitate mindmap creation from multiple sources, it aims to help users visualize complex information and organize resources efficiently, mindmark provides a portable exploration tool that can created from multiple sources and be used offline.
+mindmark is an innovative web application that combines interactive mind mapping with bookmarking functionality. Designed to facilitate mind map creation from multiple sources, it aims to help users visualize complex information and organize resources efficiently, mindmark provides a portable exploration and rendering tool that can be used offline.
 
 ## Technical Description
 
