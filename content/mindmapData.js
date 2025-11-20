@@ -8,7 +8,7 @@ const mindmapData = {
                     "label": "Template design",
                 },
                 {
-                    "label": "Self contained,serveur less",
+                    "label": "Self contained, server less",
                 },
             ]
         },

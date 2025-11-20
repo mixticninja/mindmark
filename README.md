@@ -29,7 +29,7 @@ mindmark/
 └── content/
     ├── styles.css      # Shared styles for content pages
     └── *.html          # Individual content pages
-
+```
 ## Features
 
 ### Current Features
