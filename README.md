@@ -63,7 +63,7 @@ We're actively working on adding an AI-powered backend that will:
 
 ## Getting Started
 
-you can access the mindmark demo example, with information about job market, training and companies in Toulouse-Occitannie-France
+you can access the mindmark demo example, with example informations on this project : clone repository and open index.html
 
 ## License
 
