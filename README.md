@@ -18,17 +18,6 @@ Key components:
 2. **Bookmarking System**: Linked content pages with uniform styling
 3. **Responsive Design**: Adapts to various screen sizes
 
-### File Structure
-
-
-mindmark/
-├── index.html          # Main application entry point
-├── src/
-│   ├── script.js       # Core application logic
-│   └── style.css       # Main styling
-└── content/
-    ├── styles.css      # Shared styles for content pages
-    └── *.html          # Individual content pages
 
 ## Features
 
