@@ -1,4 +1,4 @@
-# MindMark: Interactive Mind Mapping and Bookmarking Tool
+# MindMark: Interactive mind mapping and bookmarking Tool
 
 ## Overview
 
